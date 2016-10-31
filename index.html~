@@ -124,7 +124,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Trail 11 kilomètres</h2>
-                    <p class="lead">Parcours de 11km avec un dénivelé de +450, pour les débutants. Départ et arrivée à Saint Pierre de Rivière.</p>
+                    <p class="lead">Parcours de 11km avec un dénivelé de +450, pour les débutants.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/11km.jpg" alt="">
@@ -148,7 +148,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Trail 27 kilomètres</h2>
-                    <p class="lead">27 kilomètres et un dénivelé de +1500m. Pour les costauds ! Départ et arrivée à Saint Pierre de Rivière.</p>
+                    <p class="lead">27 kilomètres et un dénivelé de +1500m. Pour les costauds !</p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="img/27km.jpg" alt="">
@@ -171,7 +171,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Trail kids</h2>
-                    <p class="lead">Parcours pour les jeunes, avec quelques kilomètres de course autour de Saint Pierre de Rivière.</p>
+                    <p class="lead">Parcours pour les jeunes, avec quelques kilomètres de course.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/kids.jpg" alt="">
